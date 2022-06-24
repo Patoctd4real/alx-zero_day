@@ -1,3 +1,3 @@
 My first readme
 
-Up_to_date
+up_to_date
